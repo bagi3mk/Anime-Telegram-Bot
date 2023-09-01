@@ -1,0 +1,9 @@
+requests
+regex
+bs4
+warnings
+json
+os
+pyromod==1.5
+pyrogram
+redis
