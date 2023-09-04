@@ -3,7 +3,7 @@ Telegram Bot Has search and download animes  Scrapping From animelek.me site
 
 - Steps :
 
-1- install requerments file by command (pip install -r requirements.txt) .
+1- install requerments file by command (pip install -r requerments.txt) .
 2- edit config.py file with your info .
 3- run main.py file by command (python3 main.py)
 
@@ -17,7 +17,7 @@ and enjoy (: the bot file has arabic language only in the near future i will add
 
 - الخطوات :
 
-1- تثبيت ملف الطلبات عن طريق الأمر (pip install -r Requirements.txt).
+1- تثبيت ملف الطلبات عن طريق الأمر (pip install -r requerments.txt).
 2- قم بتحرير ملف config.py بمعلوماتك.
 3- تشغيل ملف main.py بالأمر (python3 main.py)
 
